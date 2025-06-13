@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE specific
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Local Env files
+.env
